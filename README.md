@@ -20,8 +20,9 @@ Detecing facial keypoints is a very challenging problem.  Facial features vary g
 ## Code
 
 This is torch7 code on iTorch Notebook.
+1. CNN
 
-	Epoch = .. , Score = 
+	Epoch = 100 , Score = 4.85952
 
 ---
 
